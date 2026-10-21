@@ -1,0 +1,14 @@
+{
+  "name": "광야 수련 일지",
+  "short_name": "광야",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9e7e2",
+  "theme_color": "#5d6b3f",
+  "lang": "ko",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
